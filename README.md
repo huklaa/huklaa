@@ -1,10 +1,10 @@
-# Haluk 👋
+# Hi, I'm Haluk 👋
 
 ### Building on Base and contributing to open source 🔵
 
-Onchain products · Base-native applications · Web3 tooling · Open-source development
+Open-source contributor focused on **Web3, onchain applications, developer tooling, and blockchain infrastructure**.
 
-I build practical onchain tools and contribute fixes, tests, documentation, and improvements across active open-source projects.
+I build practical crypto products and contribute focused fixes, regression tests, documentation improvements, and developer-experience enhancements to active open-source projects.
 
 ---
 
@@ -12,26 +12,28 @@ I build practical onchain tools and contribute fixes, tests, documentation, and 
 
 - Building **Base Portfolio**, a Base-focused portfolio intelligence application
 - Base-native applications and wallet integrations
-- Reliable onchain data with API fallback strategies
+- Onchain portfolio analytics and reliable data fallbacks
 - Arc ecosystem development and experimentation
-- Open-source contributions across Base, Miden, Nous Research, Seismic and XMTP
-- Testing, bug fixes, developer tooling and documentation improvements
+- Open-source contributions across Base, Miden, Nous Research, Seismic, and XMTP
+- Testing, bug fixes, developer tooling, and documentation improvements
 
 ---
 
 ## 🚀 Featured Project
 
-### **Base Portfolio**
+### Base Portfolio
 
-A Base-native portfolio intelligence tool focused on simple, transparent wallet insights.
+A read-only portfolio intelligence tool built for the Base ecosystem.
 
-Current areas include:
+It helps users inspect wallet assets, stablecoin exposure, portfolio composition, activity, and useful onchain insights without requiring a wallet connection.
+
+**Current areas:**
 
 - Wallet assets and portfolio composition
 - Stablecoin exposure
 - Onchain activity insights
 - Reliability through fallback data sources
-- A clean Base-focused user experience
+- Clean, Base-focused user experience
 
 🌐 **Live:** https://base-portfolio.xyz
 
@@ -41,11 +43,20 @@ Current areas include:
 
 ---
 
-## 🧱 Open-Source Work
+## 🧱 Open-Source Contributions
 
-I actively look for real, non-duplicate technical problems and contribute focused fixes, regression tests, documentation updates, and complementary improvements.
+I actively look for real, non-duplicate technical problems and contribute focused improvements upstream.
 
-Current ecosystems I follow and contribute around:
+My contributions include:
+
+- Bug fixes
+- Regression tests
+- Issue investigation
+- Developer tooling improvements
+- Documentation improvements
+- Pull request follow-up and maintenance
+
+Ecosystems and projects I currently follow and contribute around:
 
 `Base` · `Arc` · `Miden` · `Nous Research` · `Seismic` · `XMTP`
 
@@ -53,22 +64,35 @@ My approach is simple: understand the issue, check existing work, reproduce the 
 
 ---
 
-## 🛠 Builder Stack
+## 🛠 Tech & Tools
 
-Working with and expanding into:
-
-`TypeScript` · `JavaScript` · `Rust` · `Python` · `Solidity` · `GitHub Actions` · `Cloudflare` · `Base` · `Ethereum` · `JSON-RPC` · `Blockscout`
+`TypeScript` · `JavaScript` · `React` · `Rust` · `Python` · `Solidity` · `Git` · `GitHub Actions` · `Cloudflare` · `Base` · `Ethereum` · `JSON-RPC` · `Blockscout`
 
 ---
 
-## 📍 What I'm Building Toward
+## 📊 GitHub Stats
+
+![Haluk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huklaa&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huklaa&layout=compact&hide_border=true)
+
+---
+
+## 🎯 What I'm Building Toward
 
 - Ship stronger Base-native products
 - Add deeper wallet and onchain integrations
 - Improve transaction and portfolio intelligence
 - Contribute more meaningful upstream fixes
 - Build production-ready open-source Web3 tools
-- Document the journey through real shipped work
+- Keep learning through real shipped work
+
+---
+
+## 🤝 Connect
+
+- GitHub: https://github.com/huklaa
+- X: https://x.com/1kipcak
 
 ---
 
