@@ -1,10 +1,20 @@
 # Hi, I'm Haluk 👋
 
-### Building on Base and contributing to open source 🔵
+### Web3 Builder · Open-Source Contributor · Building on Base 🔵
 
-Open-source contributor focused on **Web3, onchain applications, developer tooling, and blockchain infrastructure**.
+I build modern web applications with **JavaScript, TypeScript, and React**, with a growing focus on **Web3, onchain applications, developer tooling, and blockchain infrastructure**.
 
-I build practical crypto products and contribute focused fixes, regression tests, documentation improvements, and developer-experience enhancements to active open-source projects.
+I enjoy shipping practical products, investigating real technical problems, and contributing focused fixes, regression tests, documentation improvements, and developer-experience enhancements to active open-source projects.
+
+---
+
+## 🚀 About Me
+
+- Building modern frontend applications with **React and TypeScript**
+- Exploring blockchain, wallet, and onchain data infrastructure
+- Building practical products in the **Base ecosystem**
+- Contributing to established open-source Web3 projects
+- Learning by shipping real-world products and working with upstream maintainers
 
 ---
 
@@ -19,7 +29,7 @@ I build practical crypto products and contribute focused fixes, regression tests
 
 ---
 
-## 🚀 Featured Project
+## 🌟 Featured Project
 
 ### Base Portfolio
 
@@ -64,9 +74,9 @@ My approach is simple: understand the issue, check existing work, reproduce the 
 
 ---
 
-## 🛠 Tech & Tools
+## 💻 Tech & Tools
 
-`TypeScript` · `JavaScript` · `React` · `Rust` · `Python` · `Solidity` · `Git` · `GitHub Actions` · `Cloudflare` · `Base` · `Ethereum` · `JSON-RPC` · `Blockscout`
+`JavaScript` · `TypeScript` · `React` · `HTML5` · `CSS3` · `Rust` · `Python` · `Solidity` · `Git` · `GitHub Actions` · `Cloudflare` · `Base` · `Ethereum` · `JSON-RPC` · `Blockscout`
 
 ---
 
@@ -78,14 +88,14 @@ My approach is simple: understand the issue, check existing work, reproduce the 
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🎯 Current Goals
 
-- Ship stronger Base-native products
+- Improve React and TypeScript skills through shipped products
+- Build production-ready Web3 applications
 - Add deeper wallet and onchain integrations
 - Improve transaction and portfolio intelligence
 - Contribute more meaningful upstream fixes
-- Build production-ready open-source Web3 tools
-- Keep learning through real shipped work
+- Grow a strong, verifiable open-source track record
 
 ---
 
